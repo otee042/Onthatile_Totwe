@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Onthatile Totwe, I am a  junior software developer 👨‍💻 </div>  
+### <div align="center"> Onthatile Totwe. 
+I am an aspiring software engineer on a journey of continuous learning and growth. With a passion for technology and problem-solving, I immerse myself in the dynamic world of software development, eager to explore its intricacies and push the boundaries of what's possible. Armed with a curious mind and a persistent drive, I embrace the challenges that come with mastering the art of coding.</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
@@ -52,16 +53,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onthatile-totwe-80b950222/" target="_blank">
+<a href="https://linkedin.com/in/onthatile-totwe-80b950222/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/thee_loverboyy/" target="_blank">
+<a href="https://instagram.com/thee_loverboyy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/otee042" target="_blank">
+<a href="https://github.com/otee042" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/Thee_Loverbhoii" target="_blank">
+<a href="https://twitter.com/Thee_Loverbhoii" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
